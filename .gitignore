@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+build/
+*.log
+.DS_Store
+.env*
+student-sphere/node_modules/
+student-sphere/.next/
+student-sphere/out/
+student-sphere/build/
